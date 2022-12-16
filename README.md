@@ -1,5 +1,3 @@
 # Test
 yes
 no
-
-or?
